@@ -26,7 +26,7 @@ class App extends Component {
             <div className={styles.wrapper}>
                 <div className={styles.container}>
                     <div className={styles.covidTitle}>
-                        <h1>COVID-19</h1>
+                        <h1>COVID-19 Tracker</h1>
                     </div>
                     <Cards data={data} />
                     <CountryPicker handleCountryChange={this.handleCountryChange} />
