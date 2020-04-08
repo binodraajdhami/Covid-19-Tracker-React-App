@@ -1,5 +1,7 @@
 .formControl{ height: 50px; background: #fff; border-radius: 5px; color: #666; border: none; padding: 15px; margin-bottom: 30px; }
 .formControl:hover{ border: none; }
+.information{ text-align: center; }
+.information h4{ font-size: 24px; margin-bottom: 15px; color: #fff; }
 @media (max-width: 767px){
     .formControl{ width: 100%; margin: 0 0 15px; padding: 30px; }
  }
